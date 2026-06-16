@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning ML and Deep Learning<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Code. Crash. Repeat.<br>📚 I'm currently learning Data Structures and Algorithms<br>🎯 Goals: Gain industry experience ...<br>
 
 ###
 
@@ -19,7 +19,10 @@
 ###
 <!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/753553575711604827) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malan-de-mel-802544389/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malandemel00@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malandemel00@gmail.com)
+[![leetcode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/MQ7Jz98EuK/)
+
+
 
 ###
 
